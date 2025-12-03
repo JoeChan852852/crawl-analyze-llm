@@ -128,5 +128,5 @@ def HTML_get(target,HTML_name):
                 f.write(html_source)
         DownVPN()
     driver.quit()
-
+    return(html_source)
 
