@@ -1,0 +1,268 @@
+,District,City,Country,Continent,locality
+0,Suffolk,Boston,United States of America,North America,Boston...
+1,NaN,Hong Kong,China,Asia,"Hong Kong, China"
+2,Gelderland,Apeldoorn,Netherlands,Europe,"Apeldoorn, The..."
+3,Hampshire,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,New Forest National...
+4,NaN,Chicago,United States of America,North America,"Chicago, Illinois"
+5,NaN,NaN,Canada,North America,Canada
+6,NaN,Qingdao,China,Asia,"Qingdao, China"
+7,NaN,NaN,Singapore,Asia,"Singapore, Singapore"
+8,NaN,Tokyo,Japan,Asia,"Tokyo, Japan"
+9,NaN,Paris,France,Europe,"Paris, France"
+10,Sectors of Bucharest,Bucharest,Romania,Europe,"Bucharest, Romania"
+11,NaN,Vancouver,Canada,North America,Vancouver
+12,NaN,San Francisco,United States of America,North America,San Francisco...
+13,Kings County,New York City,United States,North America,"Brooklyn, New York"
+14,NaN,NaN,United States of America,North America,United States
+15,Los Angeles County,Los Angeles,United States,North America,Los Angeles...
+16,City of Sydney,Sydney,Australia,Australia,"Sydney, Australia"
+17,NaN,NaN,New Zealand,Australia,New Zealand
+18,Santa Clara County,San Jose,United States of America,North America,"San Jose, California"
+19,Metropolitan Borough of Stockport,Stockport,United Kingdom of Great Britain and Northern Ireland,Europe,Stockport
+20,NaN,NaN,United States of America,North America,USA
+21,NaN,Brisbane,Australia,Oceania,"Brisbane, Australia"
+22,Mackay Region,Mackay,Australia,Australia,Mackay QLD
+23,London Borough of Hounslow,London,United Kingdom of Great Britain and Northern Ireland,Europe,"London, United..."
+24,Oxfordshire,Banbury,United Kingdom of Great Britain and Northern Ireland,Europe,"Banbury, United..."
+25,Orange County,Orlando,United States of America,North America,"Orlando, Florida"
+26,Alameda County,Alameda,United States of America,North America,"Alameda, California"
+27,Sacramento County,NaN,United States of America,North America,California
+28,City of Edinburgh,Edinburgh,United Kingdom of Great Britain and Northern Ireland,Europe,"Edinburgh, United..."
+29,NaN,NaN,United States of America,North America,california
+30,Nottinghamshire,NaN,England,Europe,Nottinghamshire...
+31,Leeds,Leeds,United Kingdom of Great Britain and Northern Ireland,Europe,"Leeds, United..."
+32,Aberdeen,Aberdeen,United Kingdom of Great Britain and Northern Ireland,Europe,"Aberdeen, United..."
+33,County Dublin,Dublin,Ireland,Europe,"Dublin, California"
+34,Sacramento County,Elk Grove,United States of America,North America,Elk Grove...
+35,NaN,Dundee,United Kingdom of Great Britain and Northern Ireland,Europe,"Dundee, United..."
+36,King County,Seattle,United States of America,North America,"Seattle, Washington"
+37,Hua Hin,NaN,Thailand,Asia,"Hua Hin, Thailand"
+38,Region F,Johannesburg,South Africa,Africa,"Johannesburg, South..."
+39,City of Melbourne,Melbourne,Australia,Australia,melbourne
+40,Mohave County,Lake Havasu City,United States of America,North America,Lake Havasu City...
+41,16 City Districts,Manila,Philippines,Asia,"Manila, Philippines"
+42,NaN,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,United Kingdom
+43,NaN,Toronto,Canada,North America,"Toronto, Canada"
+44,NaN,Hong Kong,People’s Republic of China,Asia,HK
+45,NaN,Seville,Spain,Europe,"Seville, Spain"
+46,Eurobodalia Shire,Batemans Bay,Australia,Australia,Batemans Bay...
+47,West Midlands,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,West Midlands...
+48,Worcestershire,Worcester,United Kingdom,Europe,"Worcester, United..."
+49,NaN,Dubai,United Arab Emirates,Asia,Business Bay...
+50,Kingston-upon-Hull,Kingston-upon-Hull,United Kingdom of Great Britain and Northern Ireland,Europe,Kingston-upon-Hull...
+51,Bengaluru Urban,Bengaluru,India,Asia,"Bengaluru, India"
+52,Polk County,Des Moines,United States of America,North America,"Des Moines, Iowa"
+53,Southern District,NaN,China,Asia,Southern...
+54,NaN,NaN,United States of America,North America,Northern Virginia...
+55,Maricopa County,Phoenix,United States of America,North America,Phoenix
+56,NaN,Scarborough,United Kingdom of Great Britain and Northern Ireland,Europe,scarborough
+57,City of London,London,United Kingdom of Great Britain and Northern Ireland,Europe,london
+58,Santa Clara County,Palo Alto,United States of America,North America,Palo Alto...
+59,City of Melbourne,Melbourne,Australia,Australia,"Melbourne, VIC"
+60,North Yorkshire,Harrogate,United Kingdom of Great Britain and Northern Ireland,Europe,"Harrogate, United..."
+61,Tel Aviv,Tel Aviv-Yafo,Israel,Asia,"Tel Aviv, Israel"
+62,Mecklenburg County,Charlotte,United States,North America,"Charlotte, North..."
+63,NaN,NaN,Canada,North America,Vancouver Island...
+64,City of Singapore,Singapore,Singapore,Asia,SG
+65,East Devon,Sidmouth,United Kingdom of Great Britain and Northern Ireland,Europe,"Sidmouth, United..."
+66,NaN,Montreal,Canada,North America,"Montreal, Canada"
+67,Manhattan,New York City,United States of America,North America,"New York City, New..."
+68,Sevenoaks,Sevenoaks,United Kingdom of Great Britain and Northern Ireland,Europe,"Sevenoaks, United..."
+69,Central Jakarta,Jakarta,Indonesia,Asia,"Jakarta, Indonesia"
+70,San Mateo County,Belmont,United States of America,North America,"Belmont, California"
+71,NaN,Plymouth,United Kingdom of Great Britain and Northern Ireland,Europe,"Plymouth, United..."
+72,Zamalek,Cairo,Egypt,Africa,"Cairo, Egypt"
+73,NaN,Melbourne,Australia,Australia,Kuala Lumpur...
+74,Barnet,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,"Edgware, United..."
+75,NaN,NaN,Greece,Europe,Greece
+76,South Kesteven,Grantham,United Kingdom of Great Britain and Northern Ireland,Europe,"Grantham, United..."
+77,NaN,NaN,Malaysia,Asia,Malaysia
+78,NaN,Edmonton,Canada,North America,"Edmonton, Canada"
+79,NaN,Milano Marittima,Italy,Europe,Milano Marittima...
+80,Derbyshire,Derby,United Kingdom of Great Britain and Northern Ireland,Europe,"Derbyshire, England"
+81,Rattanakosin,Bangkok,Thailand,Asia,"Bangkok, Thailand"
+82,Mumbai City,Mumbai,India,Asia,"Mumbai, India"
+83,Hyderabad,Hyderabad,India,Asia,"Hyderabad, India"
+84,Bega Valley Shire,Bermagui,Australia,Australia,"Bermagui, Australia"
+85,NaN,NaN,United Kingdom,Europe,Greater London...
+86,San Diego County,Encinitas,United States,North America,Cardiff-by-the-Sea...
+87,NaN,Dubai,United Arab Emirates,Asia,"Dubai, United Arab..."
+88,Clark County,Las Vegas,United States of America,North America,"Las Vegas, Nevada"
+89,Sentosa,Singapore,Singapore,Asia,Sentosa Island...
+90,Kiruna Municipality,Kiruna,Sweden,Europe,"Kiruna, Sweden"
+91,Rossendale,Bacup,United Kingdom of Great Britain and Northern Ireland,Europe,"Bacup, United..."
+92,Unknown,NaN,United States of America,North America,new jersey
+93,NaN,Vienna,Austria,Europe,"Vienna, Austria"
+94,City of London,London,United Kingdom of Great Britain and Northern Ireland,Europe,London UK
+95,Palm Beach County,Boynton Beach,United States of America,North America,Boynton Beach...
+96,NaN,Perth,Australia,Australia,"Perth, Australia"
+97,City of Melbourne,Melbourne,Australia,Australia,"Melbourne, Australia"
+98,Bristol,Bristol,United Kingdom of Great Britain and Northern Ireland,Europe,"Bristol, United..."
+99,Pinellas County,Clearwater,United States of America,North America,"Clearwater, Florida"
+100,Whangarei District,Whangarei,New Zealand,Oceania,"Whangarei, New..."
+101,NaN,NaN,Australia,Australia,Queensland...
+102,NaN,NaN,Singapore,Asia,Singapore
+103,Harris County,Houston,United States of America,North America,"Houston, Texas"
+104,NaN,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,England
+105,NaN,NaN,China,Asia,China
+106,NaN,NaN,Australia,Australia,Greater Sydney...
+107,Los Angeles County,Monterey Park,United States of America,North America,Monterey Park...
+108,Futian,Shenzhen,China,Asia,"Shenzhen, China"
+109,NaN,Beijing,China,Asia,"Beijing, China"
+110,NaN,NaN,Philippines,Asia,Philippines
+111,Orange County,Chapel Hill,United States,North America,"Chapel Hill, North..."
+112,NaN,NaN,Philippines,Asia,"Luzon, Philippines"
+113,Alameda County,Berkeley,United States of America,North America,"Berkeley, California"
+114,NaN,Vancouver,Canada,North America,"Vancouver, Canada"
+115,Metro Manila region,Makati City,Philippines ,Asia,makati
+116,NaN,Thessaloniki,Greece,Europe,Thessaloniki...
+117,NaN,NaN,Georgia,Europe,Georgia
+118,NaN,Tel Aviv,Israel,Asia,TLV
+119,NaN,NaN,Singapore,Asia,S'pore
+120,NaN,Antalya,Turkey,Asia,"Antalya, Turkiye"
+121,Staffordshire,Stafford,United Kingdom of Great Britain and Northern Ireland,Europe,"Stafford, United..."
+122,Shropshire,Bridgnorth,United Kingdom of Great Britain and Northern Ireland,Europe,"Bridgnorth, United..."
+123,Buda,Budapest,Hungary,Europe,"Budapest, Hungary"
+124,NaN,Barcelona,Spain,Europe,Barcelona
+125,NaN,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,uk
+126,County Dublin,Dublin,Ireland,Europe,"Dublin, Ireland"
+127,NaN,Honolulu,United States of America,North America,"Honolulu, Hawaii"
+128,Hampshire,Andover,United Kingdom,Europe,"Andover, United..."
+129,Canterbury-Bankstown,NaN,Australia,Oceania,"Bankstown, Australia"
+130,Recoleta,Buenos Aires,Argentina,South America,Buenos Aires...
+131,Palm Beach County,Palm Beach,United States of America,North America,Palm Beach...
+132,Fairfax County,NaN,United States of America,North America,Fairfax County...
+133,NaN,San Francisco,United States of America,North America,San Francisco
+134,Kulai,Kulai,Malaysia,Asia,"Kulai, Malaysia"
+135,NaN,Hamburg,Germany,Europe,"Hamburg, Germany"
+136,NaN,NaN,Germany,Europe,Germany
+137,1st District,Makati,Philippines,Asia,"Makati, Philippines"
+138,City of Adelaide,Adelaide,Australia,Australia,Adelaide
+139,County Antrim,Belfast,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Ireland
+140,San Mateo County,San Mateo,United States of America,North America,San Mateo...
+141,Thane district,Navi Mumbai,India,Asia,"Navi Mumbai, India"
+142,NaN,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,"North Wales, United..."
+143,Memphrémagog Regional County Municipality,Austin,Canada,North America,"Austin, Canada"
+144,Colorado ,Denver,United States of America,North America,"Denver, Colorado"
+145,NaN,Jeddah,Saudi Arabia,Asia,"Jeddah, Saudi Arabia"
+146,Capital Governorate,Kuwait City,Kuwait,Asia,"Kuwait City, Kuwait"
+147,NaN,Milan,Italy,Europe,"Milan, Italy"
+148,Sussex County,Ringwood,United States of America,North America,"Ringwood, United..."
+149,Wellington,Wellington,New Zealand,Australia,"Wellington, New..."
+150,York,Whitchurch-Stouffville,Canada,North America,Whitchurch-Stouffvil...
+151,Kuta District,NaN,Indonesia,Asia,"Legian, Indonesia"
+152,NaN,Riyadh,Saudi Arabia,Asia,"Riyadh, Saudi Arabia"
+153,Milton Keynes,Milton Keynes,United Kingdom,Europe,Milton Keynes...
+154,NaN,Kuala Lumpur,Malaysia,Asia,kl
+155,Cardiff,Cardiff,United Kingdom of Great Britain and Northern Ireland,Europe,"Cardiff, United..."
+156,Watford,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,"Watford, UK"
+157,NaN,NaN,Australia,Australia,Australia
+158,Birmingham,Birmingham,United Kingdom of Great Britain and Northern Ireland,Europe,"Birmingham, United..."
+159,Stockholm County,Stockholm,Sweden,Europe,"Stockholm, Sweden"
+160,NaN,Florence,Italy,Europe,"Florence, Italy"
+161,Cobb County,NaN,United States of America,North America,"Cobb, Georgia"
+162,Dane County,Madison,United States of America,North America,"Madison, Wisconsin"
+163,Centrum,Amsterdam,Netherlands,Europe,"Amsterdam, The..."
+164,Madurai,Madurai,India,Asia,"Madurai, India"
+165,Three Rivers,Watford,United Kingdom of Great Britain and Northern Ireland,Europe,"Watford, United..."
+166,Cumberland,Portland,United States of America,North America,"Portland, Maine"
+167,NaN,Regina,Canada,North America,"Regina, Canada"
+168,Suffolk,Stowmarket,United Kingdom of Great Britain and Northern Ireland,Europe,"Stowmarket, United..."
+169,NaN,Auckland,New Zealand,Oceania,"Auckland, New..."
+170,Colleton County,Walterboro,United States of America,North America,"Walterboro, South..."
+171,Indore District,Indore,India,Asia,"Indore, India"
+172,NaN,Adelaide,Australia,Oceania,Greater Adelaide...
+173,Broward County,Fort Lauderdale,United States of America,North America,Fort Lauderdale...
+174,Perth and Kinross,Auchterarder,United Kingdom of Great Britain and Northern Ireland,Europe,Auchterarder...
+175,City of Greater Geelong,Lara,Australia,Oceania,"Lara, Australia"
+176,NaN,Tauranga,New Zealand,Australia,"Tauranga, New..."
+177,Thrissur,Thrissur,India,Asia,"Thrissur, India"
+178,Henderson County,Flat Rock,United States of America,North America,"Flat Rock, North..."
+179,Richmond upon Thames,London,United Kingdom,Europe,"Twickenham, United..."
+180,North Somerset,Weston-super-Mare,United Kingdom of Great Britain and Northern Ireland,Europe,Weston super Mare...
+181,West Sussex,Worthing,United Kingdom of Great Britain and Northern Ireland,Europe,"Worthing, United..."
+182,City of Westminster,NaN,United Kingdom,Europe,Greater...
+183,City of Canada Bay,Sydney,Australia,Australia,"Drummoyne, Australia"
+184,Teller County,Divide,United States of America,North America,"Divide, Colorado"
+185,NaN,Leicester,United Kingdom,Europe,"Leicester, United..."
+186,Nottingham,Nottingham,United Kingdom of Great Britain and Northern Ireland,Europe,"Nottingham, United..."
+187,DuPage County,Downers Grove,United States of America,North America,"Downers Grove, IL"
+188,NaN,Manila,Philippines,Asia,Manila
+189,Windsor and Maidenhead,Windsor,United Kingdom,Europe,Windsor and...
+190,NaN,NaN,United States of America,North America,San Francisco Bay...
+191,Montgomery County,Dayton,United States of America,North America,"Dayton, Ohio"
+192,Westchester County,Ardsley,United States of America,North America,"Ardsley, New York"
+193,NaN,Macau,China,Asia,"Macau, China"
+194,Hoàn Kiếm,Hanoi,Viet Nam,Asia,"Hanoi, Vietnam"
+195,Philadelphia County,Philadelphia,United States of America,North America,Philadelphia...
+196,Borough of Ashford,Ashford,United Kingdom,Europe,"Ashford, United..."
+197,City of Gold Coast,Gold Coast,Australia,Australia,Gold Coast...
+198,NaN,Cape Town,South Africa,Africa,cape town
+199,Bangalore Urban,Bangalore,India,Asia,bangalore
+200,Wirral,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,Wirral
+201,NaN,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,"Wales, United..."
+202,Central and Western District,NaN,People's Republic of China,Asia,Hong Kong
+203,Kolkata district,Kolkata,India,Asia,Kolkata (Calcutta...
+204,Keningau District,Keningau,Malaysia,Asia,"Keningau, Malaysia"
+205,New York State ,New York,United States of America,North America,new york
+206,NaN,NaN,Malaysia,Asia,Sabah
+207,Nashik,Nashik,India,Asia,"Nashik, India"
+208,Northeast,George Town,Malaysia,Asia,"Penang, Malaysia"
+209,New Delhi,New Delhi,India,Asia,"New Delhi, India"
+210,Loudoun County,NaN,United States of America,North America,"Ashburn, Virginia"
+211,NaN,Reggio Emilia,Italy,Europe,"Reggio Emilia, Italy"
+212,Tirunelveli,Tirunelveli,India,Asia,"Tirunelveli, India"
+213,NaN,Helsinki,Finland,Europe,"Helsinki, Finland"
+214,Central and Western District,Hong Kong,China,Asia,ok
+215,City of London,London,United Kingdom,Europe,London
+216,Peterborough,Peterborough,United Kingdom,Europe,Peterborough...
+217,NaN,Volgograd,Russian Federation,Europe,"Volgograd, Russia"
+218,NaN,NaN,Unknown,Europe,Europe
+219,Honolulu County,Honolulu,United States of America,North America,jtang
+220,Milwaukee County,Milwaukee,United States of America,North America,"milwaukee, WI"
+221,City of Melbourne,Melbourne,Australia,Australia,Melbourne
+222,Bengaluru Urban,Bangalore,India,Asia,Bangalore District...
+223,NaN,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,england
+224,Fayette County,Lexington,United States of America,North America,Lexington...
+225,NaN,NaN,Malta,Europe,"Malta, Europe"
+226,Gwynedd,Criccieth,United Kingdom of Great Britain and Northern Ireland,Europe,"Criccieth, United..."
+227,San Diego County,San Diego,United States of America,North America,San Diego...
+228,Perth and Kinross,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,Perth and Kinross...
+229,NaN,Cambridge,United Kingdom of Great Britain and Northern Ireland,Europe,"Cambridge, United..."
+230,NaN,Boston,United States,North America,Massachusetts
+231,Santa Clara County,Los Gatos,United States of America,North America,"Los Gatos, CA"
+232,Osijek-Baranja County,Čepin,Croatia,Europe,"Cepin, Croatia"
+233,Cheshire,Stretton,United Kingdom of Great Britain and Northern Ireland,Europe,"Stretton, United..."
+234,Central Capital District,Abu Dhabi,United Arab Emirates,Asia,"Abu Dhabi, United..."
+235,Buckinghamshire,Marlow,United Kingdom of Great Britain and Northern Ireland,Europe,"Marlow, United..."
+236,Cheshire,Cheshire,United Kingdom of Great Britain and Northern Ireland,,"Cheshire, United..."
+237,1st District,Quezon City,Philippines,Asia,Quezon City...
+238,Howard County,Columbia,United States of America,North America,"Columbia, Maryland"
+239,Santa Cruz County,Watsonville,United States of America,North America,Watsonville...
+240,NaN,NaN,Singapore,Asia,singapore
+241,Cheshire West and Chester,Chester,United Kingdom of Great Britain and Northern Ireland,Europe,"Chester, United..."
+242,Kinta,Ipoh,Malaysia,Asia,"Ipoh, Malaysia"
+243,Hertfordshire,NaN,United Kingdom of Great Britain and Northern Ireland,Europe,Hertfordshire...
+244,NaN,Canberra,Australia,Australia,"Canberra, Australia"
+245,Cook,Chicago,United States of America,North America,Chicago
+246,NaN,Brasov,Romania,Europe,"Brasov, Romania"
+247,Hampden County,Springfield,United States of America,North America,Springfield...
+248,Newcastle upon Tyne,Newcastle upon Tyne,United Kingdom of Great Britain and Northern Ireland,Europe,newcastle upon tyne
+249,Gwinnett County,Suwanee,United States of America,North America,"Suwanee, Georgia"
+250,Lehigh County,Allentown,United States of America,North America,Allentown...
+251,Shire of Mount Alexander,Maldon,Australia,Australia,"Maldon, Australia"
+252,West Sussex,Worthing,United Kingdom,Europe,Worthing
+253,Miami-Dade County,Miami Beach,United States of America,North America,"Miami Beach, Florida"
+254,Cumberland County,Brunswick,United States of America,North America,"Brunswick, Maine"
+255,Dallas County,Dallas,United States of America,North America,"Dallas, Texas"
+256,Pune district,Pune,India,Asia,"Pune, India"
+257,NaN,NaN,New Zealand,Australia,nz
+258,NaN,NaN,Russian Federation,Europe,Moscow Oblast...
+259,Lancashire,Chorley,United Kingdom of Great Britain and Northern Ireland,Europe,"Chorley, United..."
+260,North Holland,Amsterdam,Netherlands,Europe,Holland
+261,NaN,Ittoqqortoormiit,Denmark,North America,Ittoqqortoormiit...
+262,NaN,Skopje,North Macedonia,Europe,"Skopje, Republic of..."
+263,Alameda County,Fremont,United States of America,North America,"Fremont, California"
+264,Agra,Agra,India,Asia,"Agra, India"
+265,Maui County,Kihei,United States,North America,"Kihei, Hawaii"
+266,Kingston upon Thames,Surbiton,United Kingdom of Great Britain and Northern Ireland,Europe,"Surbiton, United..."
