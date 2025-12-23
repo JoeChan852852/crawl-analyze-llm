@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[7]:
+
+
 '''
 The following pair of functions has been implemented to start and stop the Surfshark VPN service using its native 
 Linux command-line interface. Since the Surfshark client operates at sudo level and will invariably request the 
@@ -20,13 +26,13 @@ def StartVPN():
     #i = random.randint(0, 140) # Randomly selects a Surfshark server location from the available list
     print("Starting VPN")
     command = "sudo surfshark-vpn attack"
-    
+
     # Spawn the process
     child = pexpect.spawn(command, encoding='utf-8')
 
     # Expect the password prompt
     child.expect('.*password.*:')
-        
+
     # Send the password
     child.sendline(password)
 
@@ -41,12 +47,12 @@ def StartVPN():
     time.sleep(1)
     # Expect the  prompt
     child.expect("Enter a number to select the VPN connection type. For default UDP, press ENTER")
-    
+
     child.sendline('ls -l')
 
     # Capture output until the process completes
     child.expect(pexpect.EOF)
-        
+
     # Print the output
     print(child.before)
     print("---------------------------------------------------------------")
@@ -108,19 +114,24 @@ def HTML_get(target,HTML_name):
     html_source = None
     Bot_detect_flag = 0
     while number_of_cookies < 4: 
-        
+
         if Bot_detect_flag > 1:
-            DownVPN()
-            time.sleep(1)
-            StartVPN()
-        
-        
+            if Bot_detect_flag > 8:
+                DownVPN()
+                time.sleep(random.randint(60, 360))
+            try:
+                DownVPN()
+                time.sleep(1)
+                StartVPN()
+            except Exception as exc:
+                DownVPN()
+
         driver.get(target)
         time.sleep(random.randint(1, 8))
         html_source = driver.page_source
         cookies = driver.get_cookies()
         number_of_cookies = len(cookies)
-        
+
         if number_of_cookies > 4:
             print(f"Cookies captured: {len(cookies)}")
             Bot_detect_flag = 0
@@ -130,10 +141,7 @@ def HTML_get(target,HTML_name):
         else:
             Bot_detect_flag = Bot_detect_flag + 1
             print("Bot was detected !!! \n 有內鬼終止交易 !!!")
-            
-        
-        
-        
+
     driver.quit()
-   
+    return html_source
 
